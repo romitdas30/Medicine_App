@@ -1,0 +1,15 @@
+step to run this medicine web project:
+
+to setup backend server:
+1. open your terminal type:  pip install virtualenv
+2. virtualenv env
+3. activate env by executing the command: .\env\Scripts\activate
+4. cd backend
+5. install the dependencies by executing the command: pip install -r requirements.txt
+6. to run backend server : python manage.py runserver
+
+to run frontend:
+1. open another terminal
+2. cd frontend
+3. to install dependencies executing the command: npm install
+4. to run frontend : npm start
